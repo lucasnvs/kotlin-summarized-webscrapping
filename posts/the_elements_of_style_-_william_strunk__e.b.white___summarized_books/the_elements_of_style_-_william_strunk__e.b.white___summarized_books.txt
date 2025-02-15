@@ -1,0 +1,163 @@
+Título: The Elements Of Style - William Strunk, E.B.White | Summarized Books
+Link: https://summarizedbookz.blogspot.com/2020/01/the-elements-of-style-william-strunk.html
+Imagem: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEip6fBKe3YKjMVnPqmMLG_4_jMGbjEAwIdwiHlrDvLQ-Fto4J5hEUqcrP80mPKjJVmhxbJVx7MLmon8x9mk9oTbdUyodUR1-TuWOG8YJIXZtelpGpl_rhH5mg5YpknIYyhTUHlU5x0rrOyF/w800/1579944995983.jpg
+
+Conteúdo:
+<div dir="ltr" style="text-align: left;" trbidi="on">
+<h2 style="text-align: center;">The Elements Of Style</h2>
+<div class="separator" style="clear: both; text-align: center;">
+<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEip6fBKe3YKjMVnPqmMLG_4_jMGbjEAwIdwiHlrDvLQ-Fto4J5hEUqcrP80mPKjJVmhxbJVx7MLmon8x9mk9oTbdUyodUR1-TuWOG8YJIXZtelpGpl_rhH5mg5YpknIYyhTUHlU5x0rrOyF/s1600/1579944995983.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1059" data-original-width="1080" height="313" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEip6fBKe3YKjMVnPqmMLG_4_jMGbjEAwIdwiHlrDvLQ-Fto4J5hEUqcrP80mPKjJVmhxbJVx7MLmon8x9mk9oTbdUyodUR1-TuWOG8YJIXZtelpGpl_rhH5mg5YpknIYyhTUHlU5x0rrOyF/s320/1579944995983.jpg" width="320"></a>
+</div>
+<h3 style="text-align: left;">The Elements of Style proposes to give the principal requirements of plain English style in a short time</h3> At the close of the first World War when White, one of the authors, was a student at Cornell, he took a course called English 8. His professor was William Strunk Jr. A textbook required for the course was a slim volume called The Elements of Style, whose author was the professor himself.
+The year was 1919. The book was known on the campus in those days as “the little book,” with the stress on the word “little.” It had been privately printed by the professor. White passed the course, graduated from the university, and forgot the book but not the professor. 38 years later, the book bobbed up again in his life when Macmillan commissioned White to revise it for the college market and the general trade.
+In the meantime, professor Strunk had died.
+“The Elements of Style”, when White reexamined it in 1957, seemed to contain rich deposits of gold. It was Will Strunk's parvum opus, his attempt to cut the vast tangle of English rhetoric down to size and write its rules and principles on the head of a pin. Will himself had hung the tag “little” on the book; he referred to it sardonically and with secret pride as “the little book,” always giving the word “little” a special twist, as though he were putting a spin on a ball.
+In its original form, it was a 43-page summation of the case for cleanliness, accuracy, and brevity in the use of English. Today, its vigor is unimpaired. Seven rules of usage, eleven principles of composition, a few matters of form, and a list of words and expressions commonly misused — that was the sum and substance of Professor Strunk's work.
+In this edition, some chapters have been refurbished with words and expressions of a recent vintage; new rules of usage have been added to some chapters. Fresh examples have been added to some of the rules and principles, amplification has reared its head in a few places in the text where William felt an assault could successfully be made on the bastions of its brevity, and in general the book has received a thorough overhaul — to correct errors, delete bewhiskered entries, and enliven the argument.
+Professor Strunk was a positive man. His book contains rules of grammar phrased as direct orders. In the main, White did not try to soften his commands, or modify his pronouncements, or remove the special objects of his scorn. He instead, to preserve the flavor of his discontent while slightly enlarging the scope of the discussion.
+“The Elements of Style” does not pretend to survey the whole field. Rather it proposes to give in brief space the principal requirements of plain English style. It concentrates on fundamentals: the rules of usage and principles of compostion most commonly violated
+<h3 style="text-align: left;">Elementary Rules Of Usage</h3> • Form the possessive singular of nouns by adding's
+Whatever the final consonant, follow this rule:
+1. Charles's friend
+2. Burns's poems
+3. The witch's malice
+The exception to this is ancient proper names ending in -es and -is, the possessive Jesus', and such forms as for conscience' sake, for righteousness' sake. But such forms as Moses' Laws, Isis' temple are commonly replaced by the laws of Moses the temple of Isis.
+Possessive pronominals such as hers, its, theirs, yours, and ours have no apostrophe. Indefinite pronouns, however, use an apostrophe to show possession.
+1. One's rights
+2. Somebody else's umbrella.
+<b>Form the possessive singular of nouns by adding 's, such as Charles's friend, Burns's poems.</b>
+• In a series of terms with a single conjunction, add a comma after each term except the last
+1. Red, white, and blue-gold, silver, or copper.
+2. He opened the letter, read it, and made a note of its contents.
+This comma is often referred to as the “serial” comma. In the names of business firms, the last comma is usually omitted. Follow the usage of the individual firm.
+3. Little, Brown and Company. Donaldson, Lufkin &amp; Jenrette.
+• Enclose parenthetic expressions between commas
+1. The best way to see a country, unless you are pressed for time, is to travel on foot.
+This rule is difficult to apply; it is frequently hard to decide whether a single word, such as however or a brief phrase is or is not parenthetic. If the interruption to the flow of the sentence is but slight, commas may be safely omitted. But whether the interruption be slight or considerable, never omit one comma and leave the other. There is no defense for such punctuation as
+2. Marjories husband, Colonel Nelson paid us a visit yesterday.
+3. My brother you will be pleased to hear, is now in perfect health.
+• Do not join independent clauses with a comma
+If two or more clauses grammatically complete and not joined by a conjunction are to form a single compound sentence, the proper mark of punctuation is a semicolon.
+1. Mary Shelley's works are entertaining; they are full of engaging ideas.
+2. It is nearly half past five; we cannot reach town before dark.
+It is also correct to write each of these as two sentences, replacing the semicolons with periods.
+4. Mary Shelley's works are entertaining. They are full of engaging ideas.
+<b>If there are two or more clauses grammatically complete, but not joined by a conjunction, use a semicolon.</b>
+• Do not use periods for commas
+1. I met them on a Cunard liner many years ago. Coming home from Liverpool to New York.
+2. She was an interesting talker. A woman who had traveled all over the world and lived in half a dozen countries.
+In both these examples, the first period should be replaced by a comma and the following word begun with a small letter.
+• Use a colon after an independent clause to introduce a list of particulars, an appositive, an amplification, or an illustrative quotation
+A colon tells the reader that what follows is closely related to the preceding clause. The colon has more effect than the comma, less power to separate than the semicolon, and more formality than the dash. It usually follows an independent clause and should not separate a verb from its complement or a preposition from its object.
+Wrong: Your dedicated whittler requires: a knife, a piece of wood, and a back porch.
+Correct: Your dedicated whittler requires three props: a knife, a piece of wood, and a back porch.
+Wrong: Understanding is that penetrating quality of knowledge that grows from: theory, practice, conviction, assertion, error, and humiliation.
+Correct: Understanding is that penetrating quality of knowledge that grows from theory, practice, conviction, assertion, error, and humiliation.
+• Use a dash to set off an abrupt break or interruption and to announce a long appositive or summary
+<b>A dash is a mark of separation stronger than a comma, less formal than a colon, and more relaxed than parentheses.</b>
+1. His first thought on getting out of bed — if he had any thought at all — was to get back in again.
+2. The rear axle began to make a noise — a grinding, chattering, teeth-gritting rasp.
+A dash is a stronger separator than a comma, but less formal than a colon, and more relaxed than parentheses.
+• A participial phrase at the beginning of a sentence must refer to the grammatical subject
+1. Walking slowly down the road, he saw a woman accompanied by two children.
+The word walking refers to the subject of the sentence, not to the woman. To make it refer to the woman, the writer must recast the sentence.
+2. He saw a woman, accompanied by two children, walking slowly down the road.
+Participial phrases preceded by a conjunction or by a preposition, nouns in apposition, adjectives, and adjective phrases come under the same rule if they begin the sentence.
+3. On arriving in Chicago, his friends met him at the station. On arriving in Chicago, he was met at the station by his friends.
+4. A soldier of proved valor, they entrusted him with the defense of the city. A soldier of proved valor, he was entrusted with the defense of the city.
+<h3 style="text-align: left;">Elementary Rules Of Composition</h3> • Choose a suitable design and hold to it
+A basic structural design underlies every kind of writing. Writers will in part follow this design, in part deviate from it, according to their skills, their needs, and the unexpected events that accompany the act of composition. Writing, to be effective, must follow closely the thoughts of the writer, but not necessarily in the order in which those thoughts occur. The first principle of composition is to foresee or determine the shape of what is to come and pursue that shape.
+<b>Foresee or determine the shape of what is to come and pursue that shape.</b>
+• Make the paragraph the unit of composition
+As a rule, begin each paragraph either with a sentence that suggests the topic or with a sentence that helps the transition. If a paragraph forms part of a larger composition, its relation to what precedes, or its function as a part of the whole, may need to be expressed.
+This can sometimes be done by a mere word or phrase (again, therefore, for the same reason) in the first sentence. Sometimes, however, it is expedient to get into the topic slowly, by way of a sentence or two of introduction or transition.
+<b>Use the active voice</b>
+The active voice is usually more direct and vigorous than the passive.
+“I shall always remember my first visit to Boston” is much better than “My first visit to Boston will always be remembered by me.“
+The latter sentence is less direct, less bold, and less concise. If the writer tries to make it more concise by omitting “by me,” — My first visit to Boston will always be remembered, — it becomes indefinite: is it the writer or some undisclosed person or the world at large that will always remember this visit?
+• Put statements in positive form
+<b>Make definite assertions. Avoid tame, colorless, hesitating, noncommittal language. Use the word not as a means of denial or in antithesis, never as a means of evasion.</b>
+1. He was not very often on time. He usually came late.
+2. She did not think that studying Latin was a sensible way to use one's time. She thought the study of Latin a waste of time.
+The examples show the weakness inherent in the word not. Consciously or unconsciously, the reader is dissatisfied with being told only what is not; the reader wishes to be told what is. Hence, as a rule, it is better to express even a negative in positive form.
+Make definite assertions. Avoid tame, colorless, hesitating, noncommittal language.
+• Use definite, specific, concrete language
+Prefer the specific to the general, the definite to the vague, the concrete to the abstract.
+1. A period of unfavorable weather set in. It rained every day for a week.
+He showed satisfaction as he took possession of his well – earned reward. He grinned as he pocketed the coin.
+If those who have studied the art of writing are in accord on any one point, it is this: the surest way to arouse and hold the reader’s attention is by being specific, definite, and concrete.
+• Omit needless words
+Vigorous writing is concise. A sentence should contain no unnecessary words, a paragraph no unnecessary sentences, for the same reason that a drawing should have no unnecessary lines and a machine no unnecessary parts. This requires not that the writer make all sentences short, or avoid all detail and treat subjects only in outline, but that every word is meaningful.
+<b>A sentence should contain no unnecessary words, a paragraph no unnecessary sentences.</b>
+<b>
+</b> • Express coordinate ideas in similar form
+This principle, that of parallel construction, requires that expressions similar in content and function be outwardly similar. The likeness of form enables the reader to recognize more readily the likeness of content and function. The familiar Beatitudes exemplify the virtue of parallel construction.
+1. Blessed are the poor in spirit: for theirs is the kingdom of heaven.
+2. Blessed are they that mourn: for they shall be comforted.
+The unskilled writer often violates this principle, mistakenly believing in the value of constantly varying the form of expression.
+• Keep related words together
+The position of the words in a sentence is the principal means of showing their relationship. Confusion and ambiguity result when words are badly placed. The writer must, therefore, bring together the words and groups of words that are related in thought and keep apart those that are not so related.
+Wrong: He noticed a large stain in the rug that was right in the center.
+Correct: He noticed a large stain right in the center of the rug.
+Wrong: You can call your mother in London and tell her all about George's taking you out to dinner for just two dollars.
+Correct: For just two dollars you can call your mother in London and tell her all about George's taking you out to dinner.
+<b>Bring together the words that are related in thought and keep apart those that are not so related.</b>
+In the first example, the reader has no way of knowing whether the stain was in the center of the rug or the rug was in the center of the room. In the second example, the reader may well wonder which cost two dollars — the phone call or the dinner.
+The subject of a sentence and the principal verb should not, as a rule, be separated by a phrase or clause that can be transferred to the beginning.
+<h3 style="text-align: left;">A Few Matter Of Form</h3> • Colloquialisms. If you use a colloquialism or a slang word or phrase, simply use it; do not draw attention to it by enclosing it in quotation marks. To do so is to put on airs, as though you were inviting the reader to join you in a select society of those who know better.
+• Exclamations. Do not attempt to emphasize simple statements by using a mark of exclamation.
+1. It was a wonderful show! It was a wonderful show.
+The exclamation mark is to be reserved for use after true exclamations or commands.
+2. What a wonderful show!
+• Hyphen. When two or more words are combined to form a compound adjective, a hyphen is usually required.
+1. “He belonged to the leisure class and enjoyed leisure-class pursuits.”
+2. “She entered her boat in the round-the-island race.”
+Do not use a hyphen between words that can better be written as one word: water-fowl, waterfowl.
+• Margins. Keep righthand and lefthand margins roughly the same width. Exception: If a great deal of annotating or editing is anticipated, the lefthand margin should be roomy enough to accommodate this work.
+• Numerals. Do not spell out dates or other serial numbers. Write them in figures or Roman notation, as appropriate: “August 9, 1988, Part XII.”
+Exception: When they occur in dialogue, most dates and numbers are best spelled out — “I arrived home on August ninth.“
+• Parentheses. A sentence containing an expression in parentheses is punctuated outside the last mark of the parentheses exactly as if the parenthetical expression were absent. The expression within the marks is punctuated as if it stood by itself, except that the final stop is omitted unless it is a question mark or an exclamation point: “I went to her house yesterday (my third attempt to see her), but she had left town.”
+• Quotations. Formal quotations cited as documentary evidence are introduced by a colon and enclosed in quotation marks.
+The United States Coast Pilot has this to say of the place: “Bracy Cove, 0.5 miles eastward of Bear Island, is exposed to southeast winds, has a rocky and uneven bottom, and is unfit for anchorage.”
+<h3 style="text-align: left;">Style is an increment in writing</h3> When we speak of Fitzgerald's style, we don't mean his command of the relative pronoun, we mean the sound his words make on paper. All writers, by the way, they use the language, reveal something of their spirits, their habits, their capacities, and their biases. This is inevitable as well as enjoyable. All writing is communication; creative writing is communication through revelation — it is the self-escaping into the open. No writer remains incognito.
+Writing is, for most, laborious and slow. The mind travels faster than the pen; consequently, writing becomes a question of learning to make occasional wing shots, bringing down the bird of thought as it flashes by. A writer is a gunner, sometimes waiting in the blind for something to come in, sometimes roaming the countryside hoping to scare something up.
+<h3 style="text-align: left;">An Approach To Style</h3> Like other gunners, the writer must cultivate patience, working many covers to bring down one partridge. Here, the following are some suggestions and cautionary hints that may help the beginner find the way to a satisfactory style.
+Like a gunner, a writer must cultivate patience.
+• Place yourself in the background
+Write in a way that draws the reader's attention to the sense and substance of the writing, rather than to the mood and temper of the author. If the writing is solid and good, the mood and temper of the writer will eventually be revealed and not at the expense of the work.
+Write in a way that comes naturally
+Write in a way that comes easily and naturally to you, using words and phrases that come readily to hand. But do not assume that because you have acted naturally your product is without flaw.
+• Work from a suitable design
+Before beginning to compose something, gauge the nature and extent of the enterprise and work from a suitable design. Design informs even the simplest structure, whether of brick and steel or prose. You raise a pup tent from one sort of vision, a cathedral from another. This does not mean that you must sit with a blueprint always in front of you, merely that you had best anticipate what you are getting into.
+• Write with nouns and verbs
+Write with nouns and verbs, not with adjectives and adverbs. The adjective hasn't been built that can pull a weak or inaccurate noun out of a tight place. This is not to disparage adjectives and adverbs; they are indispensable parts of speech. Occasionally they surprise us with their power, as in:
+Up the airy mountain,
+Down the rushy glen,
+We daren't go a-hunting
+For fear of little men...
+In general, however, it is nouns and verbs, not their assistants, that give good writing its toughness and color.
+Write with nouns and verbs, not with adjectives and adverbs.
+• Revise and rewrite
+Revising is part of writing. Few writers are so expert that they can produce what they are after on the first try. Quite often you will discover, on examining the completed work, that there are serious flaws in the arrangement of the material, calling for transpositions.
+It is no sign of weakness or defeat that your manuscript ends up in need of major surgery. This is a common occurrence in all writing, and among the best writers.
+• Do not overwrite
+When writing with a computer, you must guard against wordiness. The click and flow of a word processor can be seductive, and you may find yourself adding a few unnecessary words or even a whole passage just to experience the pleasure of running your fingers over the keyboard and watching your words appear on the screen. It is always a good idea to reread your writing later and ruthlessly delete the excess.
+• Do not overstate
+When you overstate, readers will be instantly on guard, and everything that has preceded your overstatement, as well as everything that follows it, will be suspect in their minds because they have lost confidence in your judgment or your poise. Overstatement is one of the common faults. A single overstatement, wherever or however it occurs, diminishes the whole, and a single carefree superlative has the power to destroy, for readers, the object of your enthusiasm.
+A single overstatement has the power to destroy the object of your enthusiasm.
+• Avoid the use of qualifiers
+Rather, very, little, pretty — these are the leeches that infest the pond of prose, sucking the blood of words. The constant use of the adjective little (except to indicate size) is particularly debilitating; we should all try to do a little better, we should all be very watchful of this rule, for it is a rather important one, and we are pretty sure to violate it now and then.
+• Use orthodox spelling
+In ordinary composition, use orthodox spelling. Do not write nite for night, thru for through, pleez for please, unless you plan to introduce a complete system of simplified spelling and are prepared to take the consequences.
+• Do not explain too much
+It is seldom advisable to tell all. Be sparing, for instance, in the use of adverbs after “he said”, “she replied,” and the like: “he said consolingly”; “she replied grumblingly.” Let the conversation itself disclose the speaker's manner or condition. Dialogue heavily weighted with adverbs after the attributive verb is cluttery and annoying.
+• Do not construct awkward adverbs
+Adverbs are easy to build. Take an adjective or a participle, add -ly, and behold! you have an adverb. But you'd probably be better off without it. Do not write tangledly. The word itself is a tangle. Do not even write tiredly. Nobody says tangledly and not many people say tiredly. Words that are not used orally are seldom the ones to put on paper.
+• Avoid fancy words
+Avoid the elaborate, the pretentious, the coy, and the cute. Do not be tempted by a twenty-dollar word when there is a ten-center handy, ready and able. Anglo-Saxon is a livelier tongue than Latin, so use Anglo-Saxon words. In this, as in so many matters pertaining to style, one's ear must be one's guide: gut is a lustier noun than intestine, but the two words are not interchangeable, because gut is often inappropriate, being too coarse for the context. Never call a stomach a tummy without good reason.
+• Be clear
+Clarity is not the prize in writing, nor is it always the principal mark of a good style. There are occasions when obscurity serves a literary yearning, if not a literary purpose, and there are writers whose mien is more overcast than clear. But since writing is communication, clarity can only be a virtue. And although there is no substitute for merit in writing, clarity comes closest to being one. Even to a writer who is being intentionally obscure or wild of the tongue, we can say, “Be obscure clearly!”
+<h3 style="text-align: left;">Conclusion</h3> The&nbsp;Elements of Style proposes to give in brief the principal requirements of plain English style. It concentrates on fundamentals: the rules of usage and principles of composition most commonly violated. “Do not join independent clauses with a comma”, “Do not break sentences in two“, “Use the active voice”, “Omit needless words”, “Avoid a succession of loose sentences”, “Do not join independent clauses with a comma,” are some of the rules that will improve your writing.
+A writer will occasionally find it convenient or necessary to borrow from other languages. Some writers, however, from sheer exuberance or a desire to show off, sprinkle their work liberally with foreign expressions, with no regard for the reader's comfort. It is a bad habit. Don’t do it.
+Write in English
+</div>
